@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Matthew!<br><br>I am a computer science student at the University of Pittsburgh! <br><br>🔭 I’m currently working on building my programming knowledge<br>🌱 I’m currently learning about Data Structures and Algorithms<br><br><br>
+Hi there, I'm Matthew!<br><br>I am a computer science student at the University of Pittsburgh! <br><br>🔭 I’m currently working on my technical coding skills<br>🌱 I’m currently learning about languages for web development<br><br><br>
 
 
 ## 🌐 Socials:
